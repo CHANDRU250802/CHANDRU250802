@@ -30,7 +30,7 @@
 ## Connect with me
 
 <p>
-  <a href="https://X.com/chandru250802_" target="_blank" style="margin-right: 10px;">
+  <a href="https://X.com/chandru250802" target="_blank" style="margin-right: 10px;">
     <img src="https://CHANDRU250802.github.io/Image-hoster/Images/X.png" height="50" alt="X" />
   </a>&nbsp;
   
