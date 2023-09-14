@@ -53,7 +53,7 @@
 ## <div align="center">Tune in with me</div>
   
 <div align="center">
-  <a href="https://open.spotify.com/track/25SOVnk2agskqzqeKPcx2Q?si=SmvT-YEIRcW5FouoECC_HQ%0A">
+  <a href="https://spotify.link/Fb8xLYXC5Cb">
     <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31tb2rg3vnytlj3g4rujpcldwrry&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
   </a>
 </div>
