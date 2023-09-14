@@ -1,4 +1,4 @@
-### <div align="center">I'm ChandraSekaran R, developing web and mobile Apps since 2021🚀</div>  
+### <div align="center">I'm ChandraSekaran R, developing web and mobile Apps since 2020</div>  
   
 
 - 🔭 I’m currently learning Solidity.
