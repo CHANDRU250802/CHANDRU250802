@@ -31,15 +31,15 @@
 
 <p>
   <a href="https://X.com/chandru250802" target="_blank" style="margin-right: 10px;">
-    <img src="https://CHANDRU250802.github.io/Image-hoster/Images/X.png" height="50" alt="X" />
+    <img src="https://gmabhishek.github.io/Image-hoster/Images/X.png" height="50" alt="X" />
   </a>&nbsp;
   
   <a href="https://www.linkedin.com/in/chandrasekaran-r-994857248" target="_blank" style="margin-right: 10px;">
-    <img src="https://CHANDRU250802.github.io/Image-hoster/Images/LinkedIn.png" height="50" alt="LinkedIn" />
+    <img src="https://gmabhishek.github.io/Image-hoster/Images/LinkedIn.png" height="50" alt="LinkedIn" />
   </a>&nbsp;
   
   <a href="https://instagram.com/itz_me_cs__25" target="_blank">
-    <img src="https://CHANDRU.github.io/Image-hoster/Images/Instagram.png" height="50" alt="Instagram" />
+    <img src="https://gmabhishek.github.io/Image-hoster/Images/Instagram.png" height="50" alt="Instagram" />
   </a>
 </p>
 
