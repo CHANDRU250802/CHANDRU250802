@@ -51,8 +51,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHANDRU250802&layout=compact&theme=dracula&hide_border=true)
 
 
-  
 
+
+## <div align="center">Tune in with me</div>
+  
+<div align="center">
+  <a href="https://open.spotify.com/user/31tb2rg3vnytlj3g4rujpcldwrry?si=c78dc6749d624c85">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31oibx2kjsgjpcqk3heiyeqdvn3a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile" />
+  </a>
+</div>
 
 
 <br/>  
